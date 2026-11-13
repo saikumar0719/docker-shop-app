@@ -1,0 +1,7 @@
+# Files Docker should NOT pack into the lunchbox.
+# They are local leftovers, not part of the app.
+output/
+__pycache__/
+.venv/
+.git/
+logs/
